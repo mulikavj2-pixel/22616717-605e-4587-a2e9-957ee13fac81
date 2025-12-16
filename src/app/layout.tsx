@@ -11,7 +11,7 @@ const interTight = Inter_Tight({
 });
 
 export const metadata: Metadata = {
-  title: "Brew Haven - Premium Coffee Shop",
+  title: "Yo Yo mans",
   description: "Discover handcrafted coffee and premium beverages at Brew Haven. Visit our cozy coffee shop for the perfect brew.",
   keywords: "coffee shop, espresso, cappuccino, coffee house, cafe, premium coffee",
   metadataBase: new URL("https://brewhaven.com"),
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     canonical: "https://brewhaven.com"
   },
   openGraph: {
-    title: "Brew Haven - Premium Coffee Shop",
+    title: "Yo Yo mans",
     description: "Discover handcrafted coffee and premium beverages at Brew Haven.",
     siteName: "Brew Haven",
     type: "website",
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Brew Haven - Premium Coffee Shop",
+    title: "Yo Yo mans",
     description: "Discover handcrafted coffee and premium beverages at Brew Haven.",
     images: ["https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1765893575199-eq1l4365.jpg"]
   },
